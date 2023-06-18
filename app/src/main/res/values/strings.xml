@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ModernMovieApp</string>
+    <string name="description">description\n</string>
+    <string name="storyline">Storyline</string>
+    <string name="search_movies">search playing movie\n</string>
+    <string name="title_playing_movies">Movies\n</string>
+    <string name="back">back\n</string>
+</resources>
